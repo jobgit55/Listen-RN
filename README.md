@@ -1,6 +1,11 @@
 # TS-ListenBook
 Listen book app in typescript
 
+# Demo
+![](https://media.giphy.com/media/XzqEKScMNsKgZcwa8J/giphy.gif)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://media.giphy.com/media/hr9jq12oBFMB6y4YZF/giphy.gif)
+
+![](https://media.giphy.com/media/PkLUx3oLHcZ6nweW2u/giphy.gif)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://media.giphy.com/media/SsxTyjdKHNuRzctSN9/giphy.gif)
+
 # how to use it
 1. Confirm that your environment has been set up. [Setting up the development environment](https://reactnative.dev/docs/environment-setup)
 2. Provide api through localhost port 3001 eg: http://127.0.0.1:3001/
